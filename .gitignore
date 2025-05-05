@@ -1,2 +1,7 @@
-node_modules
-env
+# Ignore node_modules and other build-related files
+node_modules/
+MyWheels/android/app/.cxx/
+MyWheels/android/app/build/
+MyWheels/.bundle/
+*.log
+.env/
